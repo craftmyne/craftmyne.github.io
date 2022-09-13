@@ -1,0 +1,15 @@
+- title: Home
+  href: index.html
+
+- title: About
+  href: about.html
+
+- title: Posts
+  href: list/posts.html
+
+- title: Email Me
+  href: mailto:sean.murray.abarca@outlook.com
+#- title: Archive
+#  href: list/projects.html
+
+
