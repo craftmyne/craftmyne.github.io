@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Sean's Blog
 ---
 
 ## What is this?
