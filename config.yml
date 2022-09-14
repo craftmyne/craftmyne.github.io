@@ -1,3 +1,0 @@
-gem "github-pages", group: :jekyll_plugins
-
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
