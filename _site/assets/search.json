@@ -1,0 +1,51 @@
+[
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/welcome-to-jekyll/",
+      "date"     : "2020-08-29 09:29:20 +0700"
+    } ,
+  
+    {
+      "title"    : "Cara ribet memperbarui forked repo",
+      "description" : "Ada dua cara untuk memperbarui forked repository menggunakan web interface yang disediakan oleh github tapi ribet, atau melalui terminal yang lebih ribet lagi.",
+      "tags"     : "tips, git, software",
+      "url"      : "/cara-memperbarui-fork-repository/",
+      "date"     : "2020-01-29 01:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "What is a shell? 🐚 adalah kerang ajaib?",
+      "description" : "Shell adalah sebuah command-line interpreter; program yang berperan sebagai penerjemah perintah yang diinputkan oleh User yang melalui terminal, sehingga perintah tersebut bisa dimengerti oleh si Kernel.",
+      "tags"     : "unix/linux, cli",
+      "url"      : "/apa-itu-shell/",
+      "date"     : "2020-01-25 11:58:47 +0700"
+    } ,
+  
+    {
+      "title"    : "How this site was born 👶",
+      "description" : "All the services are free, a source code this site placed on github repository and intergration with netlify service, another service that you can use is github page for hosting your own static site.",
+      "tags"     : "blog, netlify, jekyll, github",
+      "url"      : "/how-this-site-was-made/",
+      "date"     : "2018-09-28 09:45:47 +0700"
+    } ,
+  
+    {
+      "title"    : "Python Notes from Intro to Machine Learning",
+      "description" : "Notes and code snippets of Python that I&#39;ve been collecting so far throughout the &quot;Intro to Machine Learning&quot; course.",
+      "tags"     : "python, machine-learning",
+      "url"      : "/python-notes-from-Intro-to-machine-learning/",
+      "date"     : "2018-04-14 10:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "React Component with Dot Notation",
+      "description" : "Learn how to define a React component that is accessible through the dot notation. A common component pattern to show a parent-child relation.",
+      "tags"     : "javascript, react",
+      "url"      : "/react-component-with-dot-notation/",
+      "date"     : "2018-04-07 23:04:00 +0700"
+    } 
+  
+]
