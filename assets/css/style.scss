@@ -2,3 +2,9 @@
 ---
 
 @import "main";
+
+// Include Bootstrap.
+@import 'bootstrap/bootstrap';
+
+// Customise bootstrap, and set site-wide variables.
+@import 'variables';
