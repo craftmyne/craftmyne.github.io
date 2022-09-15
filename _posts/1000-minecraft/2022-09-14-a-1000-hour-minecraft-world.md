@@ -23,3 +23,14 @@ Plus I think I've accumulated some pretty cool builds in my world, here's my mai
         </div>
     </div> 
 </div>
+
+One of the first large builds I ever attempted was a slime farm, Using a seedloader I was able to locate 4 slime chunks fairly close to my spawn area and began to dig. Once it was done I wasn't too happy with how it looked just being a massive hole in the middle of nowhere, so I built a castle casing around it, which I think still looks good even from the sky:
+
+<div class="card text-white bg-danger mb-3">
+    <img class="card-img-top" src="https://i3.lensdump.com/i/1z6LaQ.png"/>
+    <div class="card-body bg-danger">
+        <div class="card-text">
+           A render of the slime farm castle
+        </div>
+    </div> 
+</div>
