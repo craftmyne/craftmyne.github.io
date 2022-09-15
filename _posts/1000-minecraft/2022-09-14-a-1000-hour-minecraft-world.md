@@ -24,7 +24,7 @@ Plus I think I've accumulated some pretty cool builds in my world, here's my mai
     </div> 
 </div>
 
-One of the first large builds I ever attempted was a slime farm, Using a seedloader I was able to locate 4 slime chunks fairly close to my spawn area and began to dig. Once it was done I wasn't too happy with how it looked just being a massive hole in the middle of nowhere, so I built a castle casing around it, which I think still looks good even from the sky:
+One of the first large builds I ever attempted was a slime farm, Using a seedloader I was able to locate 4 slime chunks fairly close to my spawn area and began to dig. Once it was done I wasn't too happy with how it looked just being a massive hole in the middle of nowhere, so I built a castle casing around it, and added a little safehouse I could sit in to allow the slimes to spawn. I think it all looks really good even from the sky:
 
 <div class="card text-white bg-danger mb-3">
     <img class="card-img-top" src="https://i3.lensdump.com/i/1z6LaQ.png"/>
@@ -34,3 +34,15 @@ One of the first large builds I ever attempted was a slime farm, Using a seedloa
         </div>
     </div> 
 </div>
+
+It actually took me a long time to get to the end, but when I did I believe I quickly made a portal build, instead of some beautiful hall, or a intricate silverfish farm. I thought it would be fun to jump down a massive hole into the portal. So thats what I did, in the middle of the desert, I dug out a very nice crevase in the sand.
+
+<div class="card text-white bg-danger mb-3">
+    <img class="card-img-top" src="https://i3.lensdump.com/i/1z6LaQ.png"/>
+    <div class="card-body bg-danger">
+        <div class="card-text">
+           A render of the slime farm castle
+        </div>
+    </div> 
+</div>
+
