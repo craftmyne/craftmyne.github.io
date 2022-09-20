@@ -24,7 +24,7 @@ Plus I think I've accumulated some pretty cool builds in my world, here's my mai
     </div> 
 </div>
 
-One of the first large builds I ever attempted was a slime farm, Using a seedloader I was able to locate 4 slime chunks fairly close to my spawn area and began to dig. Once it was done I wasn't too happy with how it looked just being a massive hole in the middle of nowhere, so I built a castle casing around it, and added a little safehouse I could sit in to allow the slimes to spawn. I think it all looks really good even from the sky:
+One of the first large builds I ever attempted was a slime farm, [Using a seedloader](https://www.chunkbase.com/apps/seed-map) I was able to locate 4 slime chunks fairly close to my spawn area and began to dig. Once it was done I wasn't too happy with how it looked just being a massive hole in the middle of nowhere, so I built a castle casing around it, and added a little safehouse I could sit in to allow the slimes to spawn. However in retrospect due to spawning spheres, its probably best to build a platform maybe around 50 blocks above the farm so that all of the platforms are a sufficient distance away to allow for spawning. If you're confused on what I mean by spawning sphere's the minecraft wiki has a page on [spawning mechanics](https://minecraft.fandom.com/wiki/Spawn#Spawn_conditions). Here's the finished slime farm area:
 
 <div class="card text-white bg-danger mb-3">
     <img class="card-img-top" src="https://i3.lensdump.com/i/1z6LaQ.png"/>
@@ -35,7 +35,7 @@ One of the first large builds I ever attempted was a slime farm, Using a seedloa
     </div> 
 </div>
 
-It actually took me a long time to get to the end, but when I did I believe I quickly made a portal build, instead of some beautiful hall, or a intricate silverfish farm. I thought it would be fun to jump down a massive hole into the portal. So thats what I did, in the middle of the desert, I dug out a very nice crevase in the sand.
+It actually took me a long time to get to the end, but when I did I believe I quickly made a portal build, instead of some beautiful hall, or a intricate silverfish farm. I thought it would be fun to jump down a massive hole into the portal. So thats what I did, in the middle of the desert, I dug out a very nice crevase in the sand. I think in future I may create nether roads that lead to a different stronghold so I can create a silverfish farm. But since there isn't a use for silverfish other than a small amount of XP, this project has no priority and may not be started for a long time.
 
 <div class="card text-white bg-danger mb-3">
     <img class="card-img-top" src="https://i2.lensdump.com/i/1z6vLM.png"/>
@@ -46,3 +46,14 @@ It actually took me a long time to get to the end, but when I did I believe I qu
     </div> 
 </div>
 
+A lot of the hours spent on this world we're spent doing mindless tasks like mining. It's fun and I can usually put on a movie, podcast or music while I play because of how little focus is required, a place I spent a fair amount of time at was the MESA mine. It's pretty self explanatory, it resides within a Mesa biome, and I spend my time there mining terracotta, a nice block which I enjoy building with as it's a flat color block. The more I show off in this article the more I realise I probably need a name for this stuff, Mesa Mine doesn't exactly roll off the tongue.
+
+
+<div class="card text-white bg-danger mb-3">
+    <img class="card-img-top" src="https://i.lensdump.com/i/1z6Yka.png"/>
+    <div class="card-body bg-danger">
+        <div class="card-text">
+           Mesa Mine!
+        </div>
+    </div> 
+</div>

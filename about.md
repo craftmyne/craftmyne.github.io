@@ -2,7 +2,7 @@
 title: Sean Murray Abarca
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: This is a blog site that runs on jekyll and hosted at github pages
 comments: false
 ---
 
