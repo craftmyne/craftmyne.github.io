@@ -4,6 +4,7 @@ tags:
   - felis silvestris catus
   - images
   - animalia
+  - insecta
 images:
 - https://i2.lensdump.com/i/1nDNA7.jpg
 - https://i3.lensdump.com/i/1HQWvQ.jpg
@@ -15,7 +16,7 @@ images:
 - https://i1.lensdump.com/i/1nNZ3Z.jpg
 ---
 
-A Wall of Animals I have taken pictures of!
+A Wall of Animals, Insects I have taken pictures of!
 
 <div class="card-columns">
     {% for img in page.images %}
