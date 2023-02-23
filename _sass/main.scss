@@ -48,6 +48,22 @@ $on-tablet: 769px;
 $on-desktop: 1024px;
 $on-widescreen: 1152px;
 
+
+//youtube embed fixings for mobile
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
