@@ -108,7 +108,7 @@ def fun(*args, **kwargs):
 	# Do something with tuple args
 	# Do something with dict kwargs
 
-# Example call with fun(1, 2, x=3, y=4)
+# example call with fun(1, 2, x=3, y=4)
 args = (1, 2)
 kwargs = {"x": 3, "y": 4}
 ```
