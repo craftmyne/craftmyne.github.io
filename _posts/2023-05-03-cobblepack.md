@@ -13,7 +13,5 @@ You can look at the [client](/cobbleclient) side mods here and the [server](/cob
 
 
 
-<iframe src="https://discord.com/widget?id=349914083371384846&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 
 
