@@ -26,7 +26,7 @@ tags:
 - [BCLib](https://modrinth.com/mod/bclib)
 - [AutoModpack](https://modrinth.com/mod/automodpack)
 
-Performance Mods
+### Performance Mods
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Lazy DFU](https://modrinth.com/mod/lazydfu)
 - [Ferrite Core](https://modrinth.com/mod/ferrite-core)
@@ -38,11 +38,11 @@ Performance Mods
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 
-QoL Mods
+### QoL Mods
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [WTHIT](https://modrinth.com/mod/wthit)
 
-Gameplay Mods
+### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [Appleskin](https://modrinth.com/mod/appleskin)
@@ -83,5 +83,5 @@ Gameplay Mods
 - [Artifacts](https://modrinth.com/mod/artifacts)
 - [Carry On](https://modrinth.com/mod/carry-on)
 
-Datapacks
+### Datapacks
 - [TreePlacerTerralit](https://modrinth.com/datapack/treeplacer-terralith-addon)
