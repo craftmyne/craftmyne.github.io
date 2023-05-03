@@ -1,5 +1,5 @@
 ---
-title: Sean Murray Abarca
+title: Sean
 permalink: /about/
 layout: page
 excerpt: This is a blog site that runs on jekyll and hosted at github pages
@@ -14,7 +14,6 @@ This blog will contain many of my hobbies, photos I think are cool, many of my m
 
 **Contacts & Accounts**
 
-- [{{ site.author.email }}](mailto:sean.murray.abarca@outlook.com)
-- [github.com/{{ site.author.github }}](https://github.com/craftmyne)
-- [twitter.com/{{ site.author.twitter}}](https://twitter.com/craftmvne)
-- [instagram.com/{{ site.author.instagram}}](https://www.instagram.com/seanvmurray)
+- Discord: Sean#0650
+- Minecraft IGN: craftmyne
+- [youtube.com/{{ site.author.youtube}}](https://www.youtube.com/@craftmyne)

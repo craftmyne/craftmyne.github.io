@@ -15,12 +15,12 @@ author:
   
     Welcome to my site! Look around, you might find something interesting!
 
-  username: craftmyne # general username
-  github: craftmyne # github username
-  twitter: craftmvne # twitter username
-  email: sean.murray.abarca@outlook.com # email adress
+  username:  # general username
+  github:  # github username
+  twitter:  # twitter username
+  email:  # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
-  instagram: seanvmurray # instagram username
+  instagram:  # instagram username
 
 # URL settings
 url: "" #
