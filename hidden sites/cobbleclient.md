@@ -75,6 +75,9 @@ tags:
 - [Item Highlighter](https://modrinth.com/mod/item-highlighter)
 - [Keymap](https://modrinth.com/mod/keymap)
 - [Mod-erate Loading Screen](https://modrinth.com/mod/moderate-loading-screen)
+- [Inventory-Sorting](https://modrinth.com/mod/inventory-sorting)
+- [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement)
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 
 ### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
