@@ -1,5 +1,6 @@
 ---
 title:  CobbleGobble Client Mods
+permalink: /cobbleclient/
 tags:
   - Minecraft
   - CobbleGobble
