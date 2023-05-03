@@ -75,7 +75,7 @@ tags:
 - [Item Highlighter](https://modrinth.com/mod/item-highlighter)
 - [Keymap](https://modrinth.com/mod/keymap)
 
-Gameplay Mods
+### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
