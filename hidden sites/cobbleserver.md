@@ -35,7 +35,6 @@ tags:
 - [Smooth Bot](https://modrinth.com/mod/smoothboot-fabric)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [Fastload](https://modrinth.com/mod/fastload)
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 
 ### QoL Mods
