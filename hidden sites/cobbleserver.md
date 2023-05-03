@@ -44,6 +44,7 @@ tags:
 
 ### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
+- [Cobblepedia](https://modrinth.com/mod/cobblepedia)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Deeper & Darker](https://modrinth.com/mod/deeperdarker)

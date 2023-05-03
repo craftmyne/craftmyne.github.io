@@ -74,9 +74,11 @@ tags:
 - [ItemSwapper](https://modrinth.com/plugin/itemswapper)
 - [Item Highlighter](https://modrinth.com/mod/item-highlighter)
 - [Keymap](https://modrinth.com/mod/keymap)
+- [Mod-erate Loading Screen](https://modrinth.com/mod/moderate-loading-screen)
 
 ### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
+- [Cobblepedia](https://modrinth.com/mod/cobblepedia)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
