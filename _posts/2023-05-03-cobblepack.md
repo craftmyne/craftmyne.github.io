@@ -5,7 +5,7 @@ tags:
   - CobbleGobble
 ---
 
-[client](hidden sites\cobbleserver.md)
+[client](\hidden sites\cobbleserver.md)
 
 
 
