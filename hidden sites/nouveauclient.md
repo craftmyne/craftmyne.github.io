@@ -29,6 +29,11 @@ tags:
 - [Player Animator](https://modrinth.com/mod/playeranimator)
 - [BCLib](https://modrinth.com/mod/bclib)
 - [AutoModpack](https://modrinth.com/mod/automodpack)
+- [Collective](https://modrinth.com/mod/collective)
+- [JamLib](https://modrinth.com/mod/jamlib)
+- [MidnightLib](https://modrinth.com/mod/midnightlib)
+- [Moonlight](https://modrinth.com/mod/moonlight)
+
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium)
@@ -46,7 +51,7 @@ tags:
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Fastload](https://modrinth.com/mod/fastload)
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
-- [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
+- [MixinTrace](https://modrinth.com/mod/mixintrace)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 
@@ -122,3 +127,12 @@ tags:
 - [Trinkets](https://modrinth.com/mod/trinkets)
 - [Artifacts](https://modrinth.com/mod/artifacts)
 - [Carry On](https://modrinth.com/mod/carry-on)
+- [Treeplacer](https://modrinth.com/mod/treeplacer)
+- [Tree Harvester](https://modrinth.com/mod/tree-harvester)
+- [Blossom](https://modrinth.com/mod/blossom)
+- [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
+- [Toms Storage](https://modrinth.com/mod/toms-storage)
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Extended Drawers](https://modrinth.com/mod/extended-drawers)
+- [Pack It Up](https://modrinth.com/mod/pack-it-up)
+- [Slice and Dice](https://modrinth.com/mod/slice-and-dice)
