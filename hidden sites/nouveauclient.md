@@ -1,9 +1,9 @@
 ---
-title:  CobbleGobble Client Mods
-permalink: /cobbleclient/
+title:  Nouveau Client Mods
+permalink: /nouveauclient/
 tags:
   - Minecraft
-  - CobbleGobble
+  - Nouveau
 ---
 
 # Client Side

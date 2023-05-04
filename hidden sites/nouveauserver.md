@@ -1,9 +1,9 @@
 ---
-title:  CobbleGobble Server Mods
-permalink: /cobbleserver/
+title:  Nouveau Server Mods
+permalink: /nouveauserver/
 tags:
   - Minecraft
-  - CobbleGobble
+  - Nouveau
 ---
 
 # Server Side
