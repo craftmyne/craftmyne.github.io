@@ -43,7 +43,14 @@ tags:
 
 ### QoL Mods
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [EMI](https://modrinth.com/mod/emi)
+- [EMI Trades](https://modrinth.com/mod/emitrades)
+- [EMI Loot](https://modrinth.com/mod/emi-loot)
+- [EMI Compat](https://modrinth.com/mod/emicompat)
+- [EMIffect](https://modrinth.com/mod/emiffect)
 - [WTHIT](https://modrinth.com/mod/wthit)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers/files/4139850)
+- [Convenient MobGriefing](https://modrinth.com/mod/convenient-mobgriefing)
 
 ### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
@@ -94,7 +101,15 @@ tags:
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Pack It Up](https://modrinth.com/mod/pack-it-up)
-- [Slice and Dice](https://modrinth.com/mod/slice-and-dice)
+- [Betwitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment/files/4530660)
+- [Furnish](https://www.curseforge.com/minecraft/mc-mods/furnish/files/4510803)
+- [Earth2Java](https://www.curseforge.com/minecraft/mc-mods/earth2java/files/3968924)
+- [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions/files/4360029)
+- [Capybara](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric/files/4104265)
+- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails/files/4512539)
+- [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco/files/4519287)
+- [Things](https://www.curseforge.com/minecraft/mc-mods/things-fabric/files/4354883)
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
 
 ### Datapacks
 - [TreePlacerTerralit](https://modrinth.com/datapack/treeplacer-terralith-addon)
