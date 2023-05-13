@@ -84,6 +84,9 @@ tags:
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 - [Defaults Options](https://www.curseforge.com/minecraft/mc-mods/default-options-fabric)
 - [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement/version/1.0.1-1.19.2)
+- [Patchoulibuttons](https://modrinth.com/mod/patchoulibuttons)
+- [Polymorph](https://modrinth.com/mod/polymorph)
+
 
 ### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)

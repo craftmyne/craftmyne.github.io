@@ -51,6 +51,8 @@ tags:
 - [WTHIT](https://modrinth.com/mod/wthit)
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers/files/4139850)
 - [Convenient MobGriefing](https://modrinth.com/mod/convenient-mobgriefing)
+- [Patchoulibuttons](https://modrinth.com/mod/patchoulibuttons)
+- [Polymorph](https://modrinth.com/mod/polymorph)
 
 ### Gameplay Mods
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
