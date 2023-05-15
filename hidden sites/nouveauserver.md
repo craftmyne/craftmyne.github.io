@@ -116,6 +116,7 @@ tags:
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
 - [Pehkui](https://modrinth.com/mod/pehkui)
 - [The Twighlight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric)
 
 ### Datapacks
 - [TreePlacerTerralit](https://modrinth.com/datapack/treeplacer-terralith-addon)
