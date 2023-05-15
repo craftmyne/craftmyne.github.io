@@ -17,7 +17,7 @@ If you'd like to download the pack to install it you can do so [here](https://dr
 the IP is: 'ijustgotla.id' my excuse is thats the only domain I had free for use.
 
 <div class="iframe-container">
-  <iframe src="ijustogtla.id:8123" frameborder="0" scrolling="no"></iframe>
+  <iframe src="http://ijustogtla.id:8123" frameborder="0" scrolling="no"></iframe>
 </div>
 
 
