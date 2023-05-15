@@ -33,6 +33,7 @@ tags:
 - [JamLib](https://modrinth.com/mod/jamlib)
 - [MidnightLib](https://modrinth.com/mod/midnightlib)
 - [Moonlight](https://modrinth.com/mod/moonlight)
+- [oωo lib](https://modrinth.com/mod/owo-lib)
 
 
 ### Performance Mods
@@ -86,6 +87,7 @@ tags:
 - [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement/version/1.0.1-1.19.2)
 - [Patchoulibuttons](https://modrinth.com/mod/patchoulibuttons)
 - [Polymorph](https://modrinth.com/mod/polymorph)
+- [Observable](https://modrinth.com/mod/observable)
 
 
 ### Gameplay Mods
@@ -148,3 +150,5 @@ tags:
 - [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco/files/4519287)
 - [Things](https://www.curseforge.com/minecraft/mc-mods/things-fabric/files/4354883)
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+- [Pehkui](https://modrinth.com/mod/pehkui)
+- [The Twighlight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
