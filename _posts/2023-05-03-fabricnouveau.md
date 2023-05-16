@@ -16,6 +16,23 @@ If you'd like to download the pack to install it you can do so [here](https://dr
 
 the IP is: 'ijustgotla.id' my excuse is thats the only domain I had free for use.
 
+<div class="iframe-container">
+  <iframe id="dynamic-iframe" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<script>
+  var iframe = document.getElementById('dynamic-iframe');
+  iframe.src = 'http://ijustgotla.id:8123';
+
+  // Optional: Adjust iframe size dynamically
+  function resizeIframe() {
+    iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+  }
+
+  // Call resizeIframe whenever the content in the iframe changes
+  iframe.addEventListener('load', resizeIframe);
+</script>
+
 
 
 

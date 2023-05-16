@@ -29,6 +29,7 @@ tags:
 - [JamLib](https://modrinth.com/mod/jamlib)
 - [MidnightLib](https://modrinth.com/mod/midnightlib)
 - [Moonlight](https://modrinth.com/mod/moonlight)
+- [oωo lib](https://modrinth.com/mod/owo-lib)
 
 ### Performance Mods
 - [Lithium](https://modrinth.com/mod/lithium)
@@ -53,6 +54,7 @@ tags:
 - [Convenient MobGriefing](https://modrinth.com/mod/convenient-mobgriefing)
 - [Patchoulibuttons](https://modrinth.com/mod/patchoulibuttons)
 - [Polymorph](https://modrinth.com/mod/polymorph)
+- [Observable](https://modrinth.com/mod/observable)
 
 ### Gameplay Mods
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
@@ -109,6 +111,9 @@ tags:
 - [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco/files/4519287)
 - [Things](https://www.curseforge.com/minecraft/mc-mods/things-fabric/files/4354883)
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+- [Pehkui](https://modrinth.com/mod/pehkui)
+- [The Twighlight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric)
 
 ### Datapacks
 - [TreePlacerTerralit](https://modrinth.com/datapack/treeplacer-terralith-addon)
