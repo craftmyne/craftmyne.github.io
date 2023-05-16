@@ -89,8 +89,6 @@ tags:
 
 
 ### Gameplay Mods
-- [Cobblemon](https://modrinth.com/mod/cobblemon)
-- [Cobblepedia](https://modrinth.com/mod/cobblepedia)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
@@ -127,7 +125,6 @@ tags:
 - [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads)
 - [Farmer's Knives](https://modrinth.com/mod/farmers-knives)
 - [Expanded Delight](https://modrinth.com/mod/expanded-delight)
-- [Cobblemon Delights](https://modrinth.com/mod/cobblemon-delights)
 - [Trinkets](https://modrinth.com/mod/trinkets)
 - [Artifacts](https://modrinth.com/mod/artifacts)
 - [Carry On](https://modrinth.com/mod/carry-on)
