@@ -91,6 +91,7 @@ tags:
 - [Observable](https://modrinth.com/mod/observable)
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
+- [IKWID](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
 
 ### Gameplay Mods
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
