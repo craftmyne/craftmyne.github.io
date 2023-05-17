@@ -12,26 +12,12 @@ Please don't feel scared to! you can join a million times and never say Hi and y
 
 You can look at the [client](/nouveauclient) side mods here and the [server](/nouveauserver) side mods here. 
 
-If you'd like to download the pack to install it you can do so [here](https://drive.google.com/file/d/1eAGF4BoQTLcpBi66ZUt09uipI89iKT0y/view?usp=sharing) this pack is in a curseforge format, so you may import it using curseforge, or any compatible launcher.
+If you'd like to download the pack to install it you can do so by following these simple steps:
+- Download the pack as a zip from [here](https://drive.google.com/file/d/1n0CQ-KNy2SNfyEOIVfhM6Dbw6yzRy-37/view?usp=share_link) 
+- Then go to any compatible launcher and import it as a zip. Curseforge, ATLauncher, PolyMC are all compatible
 
-the IP is: 'ijustgotla.id' my excuse is thats the only domain I had free for use.
-
-<div class="iframe-container">
-  <iframe id="dynamic-iframe" frameborder="0" scrolling="no"></iframe>
-</div>
-
-<script>
-  var iframe = document.getElementById('dynamic-iframe');
-  iframe.src = 'http://ijustgotla.id:8123';
-
-  // Optional: Adjust iframe size dynamically
-  function resizeIframe() {
-    iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-  }
-
-  // Call resizeIframe whenever the content in the iframe changes
-  iframe.addEventListener('load', resizeIframe);
-</script>
+The IP is: 'ijustgotla.id' my excuse is thats the only domain I had free for use.
+And if you want to check the server map go to [ijustgotla.id:8123](http://ijustgotla.id:8123) 
 
 
 
