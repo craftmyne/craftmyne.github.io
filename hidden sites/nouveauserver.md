@@ -119,3 +119,6 @@ tags:
 
 ### Datapacks
 - [TreePlacerTerralit](https://modrinth.com/datapack/treeplacer-terralith-addon)
+- [Explorify](https://modrinth.com/datapack/explorify)
+- [Mob Captains](https://www.curseforge.com/minecraft/mc-mods/mob-captains)
+- [Dungeons & Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
