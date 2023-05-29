@@ -16,7 +16,7 @@ If you'd like to download the pack to install it you can do so by following thes
 - Download the pack as a zip from [here](https://1drv.ms/u/s!AjygWOcT5btHh_xMPJKhvYT0VCiJUg) 
 - Then go to any compatible launcher and import it as a zip. Curseforge, ATLauncher, PolyMC are all compatible
 
-The IP is: 'ijustgotla.id' my excuse is thats the only domain I had free for use.
+The IP is: 'ijustgotla.id' my excuse is thats the only domain I had free for use. 
 And if you want to check the server map go to [map.ijustgotla.id](http://map.ijustgotla.id/) 
 
 
