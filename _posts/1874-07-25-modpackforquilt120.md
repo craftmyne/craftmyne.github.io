@@ -13,15 +13,19 @@ Joining a server like hypixel with these mods is not recommended, please be care
 
 But also don't be scared if you accidentally join one, just make sure not to actively play with them.
 
-### Body content
+### What is this?
 
-Hello! I have decided to put together the mods I use on vanilla survival servers. These are all client-side, meaning that like optifine, you may use them independtly from the server.
+I have decided to put together the mods I use on vanilla survival servers. These are all client-side, meaning that like optifine, you may use them independtly from the server.
 
 I will have two versions of this pack, one with performance mods and a few legal utility ones, and one with performance mods + illegal utility mods.
 
 ### How install pls?
 
-There are two ways to install this pack, the recommended way is to use a modpack manager utility like curseforge, ATLauncher or any multiMC variant. 
+There are two ways to install this pack, the recommended way is to use a modpack manager utility like curseforge, ATLauncher or any multiMC variant. However if you'd like to use this on the base minecraft launcher I will provide a way for you to install this aswell, my tutorial will focus on installation on macOS, however this should be very similar to a installation on windows or linux.
+
+
+
+
 
 
 ### FAQ
@@ -29,6 +33,15 @@ There are two ways to install this pack, the recommended way is to use a modpack
 #### I already use optifine why should I use this?
 
 You don't need to! if you're happy with your performance now and don't want anything more, there is no need. However, if you'd like an improvement in performance across the board, I recommend using the provided pack.
+
+<details>
+<summary><a href="https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754"> Here is an explanation from fabric as to why optifine sucks.<a/></summary>
+
+OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric.
+
+In the modern Minecraft era, with Fabric's community effort, modders have begun to create alternatives for most of OptiFine's features to allow players to maintain better performance, better mod compatibility, and better support.
+
+</div>
 
 #### Are there any system requirements? 
 
@@ -41,12 +54,11 @@ I have no idea.
 
 #### Why quilt, whats wrong with fabric?
 
-Honestly? No idea, all I know is that the someone on the fabric team is transphobic and quilt is a fork of fabric that is more inclusive. A lot of developers I know have voiced their dislike for fabric and its practices, want a more detailed explanation? 
+Honestly? No idea, all I know is that the someone on the fabric team is transphobic and quilt is a fork of fabric that is more inclusive. A lot of developers I know have voiced their dislike for fabric and its practices, last I checked transphobia kinda sucks and so I have some weird feeling that I don't want to associate with it.
 
-<details open>
-<summary>Want a more detailed summary?</summary>
-<br>
-Here is an explanation from a dev that I follow, quoted from [here](https://modrinth.com/mod/effective) 
+<details>
+
+<summary><a href="https://modrinth.com/mod/effective">Here is an explanation from a dev that I follow</a></summary>
 
 I don't have any problem dissociating a project from the person behind it when that project is the best there is, however, Fabric's lead dev's transphobia genuinely got in the way of code contributions that would've been great additions to the loader's API (these contributions being made by trans people). Certain systems like the custom biome, dimension or multipart APIs of Fabric have a lot of problems and sometimes straight up don't work, while these issues have been fixed on Quilt.
 
@@ -57,6 +69,6 @@ Additionally, Quilt has a bigger team, and I personally know most of the devs. T
 If you're upset about the mod not being available to you because you don't wanna use Quilt, I can understand that. However, please also understand that if it weren't for Quilt, I probably wouldn't have updated my mod anyway, so you're technically not missing out on anything! Ultimately, whether or not you want to use this mod is entirely your choice, so do not play victim and put the blame on me if you do not wish to go through the steps to play with it.
 
 Finally, I mod for myself above all, releasing my mods is just a bonus I provide for free. This is a hobby that should stay enjoyable, and altough I'm trying my best to keep it that way, it's becoming harder and harder as time passes due to entitled players and the incredibly toxic modding community. This is my work, my mod, and I am free to do whatever I want with it. If I don't want it to be available for loaders I dislike and don't want to support, I am free to make that choice without having to justify it. However, I still hope this explanation gives a little more insight and helps you understand!
-
-
 </details>
+
+</div>
