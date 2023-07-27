@@ -36,6 +36,7 @@ You don't need to! if you're happy with your performance now and don't want anyt
 
 <details>
 <summary><a href="https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754"> Here is an explanation from fabric as to why optifine sucks.<a/></summary>
+<br>
 
 OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric.
 
@@ -59,6 +60,7 @@ Honestly? No idea, all I know is that the someone on the fabric team is transpho
 <details>
 
 <summary><a href="https://modrinth.com/mod/effective">Here is an explanation from a dev that I follow</a></summary>
+<br>
 
 I don't have any problem dissociating a project from the person behind it when that project is the best there is, however, Fabric's lead dev's transphobia genuinely got in the way of code contributions that would've been great additions to the loader's API (these contributions being made by trans people). Certain systems like the custom biome, dimension or multipart APIs of Fabric have a lot of problems and sometimes straight up don't work, while these issues have been fixed on Quilt.
 
