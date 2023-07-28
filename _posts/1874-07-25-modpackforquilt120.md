@@ -35,13 +35,12 @@ There are two ways to install this pack, the recommended way is to use a modpack
 You don't need to! if you're happy with your performance now and don't want anything more, there is no need. However, if you'd like an improvement in performance across the board, I recommend using the provided pack.
 
 <details>
-<summary><a href="https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754"> Here is an explanation from fabric as to why optifine sucks.<a/></summary>
+<summary> Here is an explanation from fabric as to why optifine sucks.</summary>
 <br>
 
 OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric.
 
 In the modern Minecraft era, with Fabric's community effort, modders have begun to create alternatives for most of OptiFine's features to allow players to maintain better performance, better mod compatibility, and better support.
-
 </div>
 
 #### Are there any system requirements? 
@@ -59,7 +58,7 @@ Honestly? No idea, all I know is that the someone on the fabric team is transpho
 
 <details>
 
-<summary><a href="https://modrinth.com/mod/effective">Here is an explanation from a dev that I follow</a></summary>
+<summary>Here is an explanation from a dev that I follow</summary>
 <br>
 
 I don't have any problem dissociating a project from the person behind it when that project is the best there is, however, Fabric's lead dev's transphobia genuinely got in the way of code contributions that would've been great additions to the loader's API (these contributions being made by trans people). Certain systems like the custom biome, dimension or multipart APIs of Fabric have a lot of problems and sometimes straight up don't work, while these issues have been fixed on Quilt.
@@ -68,9 +67,4 @@ For Forge, it's not so much about the devs being bad people, it's more that the 
 
 Additionally, Quilt has a bigger team, and I personally know most of the devs. Therefore, I can also try to help by directly giving feedback or contributions to them if need be, unlike with Fabric or Forge. To also quote a friend I completely agree with: "The argument of "X modloader has no popular mods ergo no popular mods should move to it" is circular and, to put it bluntly, a tad idiotic. I've heard it with Fabric before, and as I did not listen previously I will not listen now. Quilt is a modloader that I can trust the development team of, and thus I develop on it."
 
-If you're upset about the mod not being available to you because you don't wanna use Quilt, I can understand that. However, please also understand that if it weren't for Quilt, I probably wouldn't have updated my mod anyway, so you're technically not missing out on anything! Ultimately, whether or not you want to use this mod is entirely your choice, so do not play victim and put the blame on me if you do not wish to go through the steps to play with it.
 
-Finally, I mod for myself above all, releasing my mods is just a bonus I provide for free. This is a hobby that should stay enjoyable, and altough I'm trying my best to keep it that way, it's becoming harder and harder as time passes due to entitled players and the incredibly toxic modding community. This is my work, my mod, and I am free to do whatever I want with it. If I don't want it to be available for loaders I dislike and don't want to support, I am free to make that choice without having to justify it. However, I still hope this explanation gives a little more insight and helps you understand!
-</details>
-
-</div>
