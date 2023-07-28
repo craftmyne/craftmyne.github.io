@@ -1,11 +1,19 @@
 [
   
     {
-      "title"    : "Collection of cats",
+      "title"    : "Fabric Nouveau Modpack",
       "description" : "",
-      "tags"     : "felis silvestris catus, images, animalia",
-      "url"      : "/cat-pics/",
-      "date"     : "2022-09-13 00:00:00 +0000"
+      "tags"     : "Minecraft, Nouveau",
+      "url"      : "/fabricnouveau/",
+      "date"     : "2023-05-03 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Utility &amp; Performance mods for MC",
+      "description" : "",
+      "tags"     : "Minecraft",
+      "url"      : "/modpackforquilt120/",
+      "date"     : "1874-07-25 00:00:00 +0000"
     } 
   
 ]

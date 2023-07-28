@@ -6,7 +6,8 @@ tags:
 ---
 
 ### Disclaimer:
-Mods marked with 🦕 might be flagged as cheating by servers. These will be called illegal or marked with 🦕
+
+`Mods marked with 🦕 might be flagged as cheating by servers.`
 
 A majority of these mods might be considered as cheating/hacking on hypixel/whatever else, they aid vanilla gameplay, but in competitive scenarios have the ability to give a massive advantage. 
 Joining a server like hypixel with these mods is not recommended, please be careful.
@@ -35,13 +36,12 @@ There are two ways to install this pack, the recommended way is to use a modpack
 You don't need to! if you're happy with your performance now and don't want anything more, there is no need. However, if you'd like an improvement in performance across the board, I recommend using the provided pack.
 
 <details>
-<summary> Here is an explanation from fabric as to why optifine sucks.</summary>
+<summary>Here is an explanation from fabric as to why optifine sucks.</summary>
 <br>
-
 OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric.
 
 In the modern Minecraft era, with Fabric's community effort, modders have begun to create alternatives for most of OptiFine's features to allow players to maintain better performance, better mod compatibility, and better support.
-</div>
+</details>
 
 #### Are there any system requirements? 
 
@@ -57,14 +57,13 @@ I have no idea.
 Honestly? No idea, all I know is that the someone on the fabric team is transphobic and quilt is a fork of fabric that is more inclusive. A lot of developers I know have voiced their dislike for fabric and its practices, last I checked transphobia kinda sucks and so I have some weird feeling that I don't want to associate with it.
 
 <details>
-
 <summary>Here is an explanation from a dev that I follow</summary>
 <br>
-
 I don't have any problem dissociating a project from the person behind it when that project is the best there is, however, Fabric's lead dev's transphobia genuinely got in the way of code contributions that would've been great additions to the loader's API (these contributions being made by trans people). Certain systems like the custom biome, dimension or multipart APIs of Fabric have a lot of problems and sometimes straight up don't work, while these issues have been fixed on Quilt.
 
 For Forge, it's not so much about the devs being bad people, it's more that the way Forge does things and forces modders to do things in a particular (and in my opinion, complicated) way genuinely got me to quit modding before I switched to Fabric when it first came out. On top of that, Forge devs have in the past caused me and my friends quite a bit of trouble and unfortunate interactions, and when I did allow Forge ports of my mods to be made, I would have people come to me regarding issues on the Forge version, which I had nothing to do with.
 
 Additionally, Quilt has a bigger team, and I personally know most of the devs. Therefore, I can also try to help by directly giving feedback or contributions to them if need be, unlike with Fabric or Forge. To also quote a friend I completely agree with: "The argument of "X modloader has no popular mods ergo no popular mods should move to it" is circular and, to put it bluntly, a tad idiotic. I've heard it with Fabric before, and as I did not listen previously I will not listen now. Quilt is a modloader that I can trust the development team of, and thus I develop on it."
+</details>
 
 
