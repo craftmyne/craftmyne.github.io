@@ -1,0 +1,256 @@
+I"�<p><a href="/quilt1201">Back to the main page</a></p>
+<blockquote>
+No dinos 🦕 here, you can use this on public competitive servers!
+</blockquote>
+<h5 id="glossary">Glossary:</h5>
+<ul>
+  <li><a href="#modlist">Modlist</a>
+    <ul>
+      <li><a href="#mandatory-mods">Mandatory Mods</a></li>
+      <li><a href="#performance-mods">Performance Mods</a></li>
+      <li><a href="#quality-of-life-mods">QoL mods</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="quilt-1201-performance-mods">Quilt 1.20.1 Performance Mods</h1>
+<p>This pack should function almost identically to optifine, with its resourcepack compatibility and shader support, and performance enhancements. But its all better than optifine, because its open source.</p>
+
+<ul>
+  <li><a href="">modpack file</a></li>
+  <li><a href="">mods + config file</a></li>
+</ul>
+
+<h1 id="modlist">Modlist</h1>
+
+<h3 id="mandatory-mods">Mandatory Mods</h3>
+<p>Removing these may break your installation!</p>
+
+<details>
+<summary><a href="https://docs.isxander.dev/yet-another-config-lib" target="_blank">Yet Another Config Lib</a></summary>
+<blockquote>
+"Primarily, YACL is a config screen generator which covers creating a user friendly GUI in Minecraft to allow users to configure their mods easily. It also provides a separate config API to easily save and load fields for you with little to no effort."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://modrinth.com/mod/qkl" target="_blank">Quilt Kotlin Library</a></summary>
+<blockquote>
+"Quilt Kotlin Libraries is Quilt's official Kotlin wrappers for QSL and Minecraft. It also bundles the Kotlin StdLib, and some Kotlinx libraries."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://modrinth.com/mod/qsl" target="_blank">Quilted Fabric API</a></summary>
+<blockquote>
+"Essential standard libraries for the Quilt ecosystem. QSL gives modders Quilt-exclusive tools to add new and exciting features to their mods, while Quilted Fabric API provides compatibility with Fabric mods that use the Fabric API."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://modrinth.com/mod/cloth-config" target="_blank">Cloth Config</a></summary>
+<blockquote>
+"Cloth Config API is a config screen api."
+</blockquote>
+</details>
+
+<h3 id="performance-mods">Performance Mods</h3>
+
+<p>These mods will replicate the performance gains of optifine, do note that graphically the game may appear a teensy tiny itsy bitsy just so slightly bit different. You probably won’t notice, but if you do, its probably one of these mods that does it and theres no need to worry!</p>
+
+<details>
+<summary><a href="https://github.com/CaffeineMC/sodium-fabric" target="_blank">Sodium</a></summary>
+<blockquote>
+"Sodium is a free and open-source optimization mod for the Minecraft client which improves frame rates and reduces micro-stutter while fixing many graphical issues in Minecraft."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/FlashyReese/sodium-extra-fabric" target="_blank">Sodium Extras</a></summary>
+<blockquote>
+"Features that shouldn't be in Sodium."
+</blockquote>
+This adds optifine graphical options that you may like.
+</details>
+
+<details>
+<summary><a href="https://github.com/juliand665/Dynamic-FPS" target="_blank">Dynamic FPS</a></summary>
+<blockquote>
+"Dynamically adjusts FPS so Minecraft doesn't hog resources in background."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/FoundationGames/EnhancedBlockEntities" target="_blank">Enhanced Block Entities</a></summary>
+<blockquote>
+"Optimize and customize block entity rendering with a more modern approach."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/tr7zw/EntityCulling-Fabric" target="_blank">Entity Culling</a></summary>
+<blockquote>
+"This mod uses async path-tracing to hide Tiles/Entities that are not visible."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/malte0811/FerriteCore" target="_blank">Ferrite Core</a></summary>
+<blockquote>
+"Reduces memory usage"
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/RaphiMC/ImmediatelyFast" target="_blank">Immediately Fast</a></summary>
+<blockquote>
+"Speed up and optimize immediate mode rendering in Minecraft"
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/comp500/Indium" target="_blank">Indium</a></summary>
+<blockquote>
+"Sodium addon providing support for the Fabric Rendering API, based on Indigo"
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/astei/krypton" target="_blank">Krypton</a></summary>
+<blockquote>
+"A Fabric mod that optimizes the Minecraft networking stack and entity tracker."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/astei/lazydfu" target="_blank">LazyDFU</a></summary>
+<blockquote>
+"Makes DataFixerUpper more lazy"
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/CaffeineMC/lithium-fabric" target="_blank">Lithium</a></summary>
+<blockquote>
+"Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/fxmorin/memoryleakfix" target="_blank">Memory Leak Fix</a></summary>
+<blockquote>
+"A mod which fixes multiple memory leaks, both client-side &amp; server-side"
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/PaperMC/Starlight" target="_blank">Starlight</a></summary>
+<blockquote>
+"Rewrites the light engine to fix lighting performance and lighting errors"
+</blockquote>
+</details>
+
+<h3 id="quality-of-life-mods">Quality of Life mods</h3>
+<p>These mods add to the quality of gameplay</p>
+
+<details>
+<summary><a href="https://github.com/FlashyReese/reeses-sodium-options" target="_blank">Reese's Sodium Options</a></summary>
+<blockquote>
+"Reese's Edition of Sodium Options"
+An improvement upon sodiums graphics menu
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/TerraformersMC/ModMenu" target="_blank">Mod Menu</a></summary>
+<blockquote>
+"Adds a mod menu to view the list of mods you have installed."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/Aizistral-Studios/No-Chat-Reports" target="_blank">No Chat Reports</a></summary>
+<blockquote>
+"Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account, as well as use Player Chat Reporting feature."
+</blockquote>
+</details>
+
+<details>
+<summary><a href="https://github.com/isXander/Zoomify" target="_blank">Zoomify</a></summary>
+<blockquote>
+"A zoom mod with infinite customizability."
+</blockquote>
+</details>
+
+<h3 id="utility-mods">Utility Mods</h3>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+
+<details>
+<summary><a href=" " target="_blank"> </a></summary>
+<blockquote>
+""
+</blockquote>
+</details>
+:ET

@@ -1,0 +1,99 @@
+I"�<h3 id="glossary">Glossary:</h3>
+<ul>
+  <li><a href="/quilt1201/#what-is-this">Info</a></li>
+  <li><a href="/quilt1201/#how-install-pls">Installation</a></li>
+  <li><a href="/quilt1201/#download">Download</a></li>
+  <li><a href="/quilt1201/#faq">FAQ</a></li>
+</ul>
+
+<h1 id="disclaimer">Disclaimer:</h1>
+
+<blockquote>
+Mods marked with 🦕 might be flagged as cheating by servers.
+</blockquote>
+<p>A majority of these mods might be considered as cheating/hacking on hypixel/whatever else, they aid vanilla gameplay, but in competitive scenarios have the ability to give a massive advantage. 
+Joining a server like hypixel with these mods is not recommended, please be careful.</p>
+
+<p>But also don’t be scared if you accidentally join one, just make sure not to actively play with them.</p>
+
+<h3 id="what-is-this">What is this?</h3>
+
+<p>I have decided to put together the mods I use on vanilla survival servers. These are all client-side, meaning that like optifine, you may use them independtly from the server.</p>
+
+<p>I will have two versions of this pack, one with performance mods and a few utility ones, and one with performance mods + utility mods that are unsafe for competitive multiplayer.</p>
+
+<p>If you want to know more about each pack you, follow da following links!</p>
+
+<ul>
+  <li><a href="/quilt120perf">Performance</a></li>
+  <li><a href="/quilt120perfutil">Performance + Utility</a></li>
+</ul>
+
+<h5 id="what-utility">What utility?</h5>
+
+<p>A few different things! I’ll give a short explanation here, but I’ll provide a more detailed description for each mod somewhere else.</p>
+
+<ul>
+  <li>Blockmeter: Lets you easily measure distances in game</li>
+  <li>Accurate Block Placement: Lets you place blocks far quicker than normal.</li>
+  <li>Litematica: Lets you turn your builds into blueprints so they may be displayed in any world.</li>
+  <li>MiniHUD: Can render lightlevels, beacon ranges, gives player speed, TPS, etc</li>
+  <li>Inspecio: More info, but mainly, you can see inside shulkers from your inventory</li>
+  <li>Inventory Profiles Next: Inventory tweaks, sorting, better movement of items</li>
+</ul>
+
+<p>On their own none of them are cheaty, but if used properly can give a competitive edge in minigames and such.</p>
+
+<h1 id="how-install-pls">How install pls?</h1>
+
+<p>There are two ways to install this pack, the recommended way is to use a modpack manager utility like curseforge, ATLauncher or any multiMC variant. However if you’d like to use this on the base minecraft launcher I will provide a way for you to install this aswell, my tutorial will focus on installation on macOS, however this should be very similar to a installation on windows or linux.</p>
+
+<h1 id="download">Download</h1>
+
+<h3 id="performance">Performance</h3>
+
+<ul>
+  <li><a href="">Performance modpack file</a></li>
+  <li><a href="">Performance mods + config file</a></li>
+</ul>
+
+<h3 id="performance--utility">Performance + Utility</h3>
+
+<ul>
+  <li><a href="">Performance + Utility modpack file</a></li>
+  <li><a href="">Performance + Utility mods + config file</a></li>
+</ul>
+
+<h1 id="faq">FAQ</h1>
+
+<h4 id="are-there-any-system-requirements">Are there any system requirements?</h4>
+
+<p>If you can already run minecraft then this work perfectly!</p>
+
+<h4 id="im-on-windows-7-will-this-work">I’m on windows 7, will this work?</h4>
+
+<p>I have no idea.</p>
+
+<h4 id="i-already-use-optifine-why-should-i-use-this">I already use optifine why should I use this?</h4>
+
+<p>You don’t need to! if you’re happy with your performance now and don’t want anything more, there is no need. However, if you’d like an improvement in performance across the board, I recommend using the provided pack.</p>
+
+<details>
+<summary><a href="https://lambdaurora.dev/optifine_alternatives/" target="_blank">Here is an explanation from fabric as to why optifine sucks.</a></summary>
+<blockquote>
+"OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod."
+</blockquote>
+</details>
+
+<h4 id="why-quilt-whats-wrong-with-fabric">Why quilt, whats wrong with fabric?</h4>
+
+<p>Honestly? No idea, all I know is that the someone on the fabric team is transphobic and quilt is a fork of fabric that is more inclusive. A lot of developers I know have voiced their dislike for fabric and its practices.</p>
+
+<details>
+<summary><a href="https://github.com/Ladysnake/Effective" target="_blank">Here is an explanation a dev I like.</a></summary>
+<blockquote>
+"I don't have any problem dissociating a project from the person behind it when that project is the best there is, however, Fabric's lead dev's transphobia genuinely got in the way of code contributions that would've been great additions to the loader's API (these contributions being made by trans people). Certain systems like the custom biome, dimension or multipart APIs of Fabric have a lot of problems and sometimes straight up don't work, while these issues have been fixed on Quilt."
+</blockquote>
+</details>
+
+:ET

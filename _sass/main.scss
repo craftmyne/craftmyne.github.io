@@ -64,6 +64,9 @@ $on-widescreen: 1152px;
   height: 100%;
 }
 
+.post-content {
+  text-align: center;
+}
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {

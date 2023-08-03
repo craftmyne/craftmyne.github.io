@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-07-28T13:57:14+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sean’s Blog</title><subtitle>Sean&apos;s blog</subtitle><author><name>Sean&apos;s Blog</name></author><entry><title type="html">Fabric Nouveau Modpack</title><link href="http://localhost:4000/fabricnouveau/" rel="alternate" type="text/html" title="Fabric Nouveau Modpack" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>http://localhost:4000/fabricnouveau</id><content type="html" xml:base="http://localhost:4000/fabricnouveau/"><![CDATA[<p>Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-07-30T09:50:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sean’s Blog</title><subtitle>Sean&apos;s blog</subtitle><author><name>Sean&apos;s Blog</name></author><entry><title type="html">Fabric Nouveau Modpack</title><link href="http://localhost:4000/fabricnouveau/" rel="alternate" type="text/html" title="Fabric Nouveau Modpack" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>http://localhost:4000/fabricnouveau</id><content type="html" xml:base="http://localhost:4000/fabricnouveau/"><![CDATA[<p>Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly.
 This is a semi-public server, I setup the server for my friends &amp; I.</p>
 
 <p>Anyways, if you believe that you can act like an adult and play well with us, shoot me a message on discord: Sean#0650 
@@ -15,9 +15,19 @@ Please don’t feel scared to! you can join a million times and never say Hi and
 <p>The IP is: ‘ijustgotla.id’ my excuse is thats the only domain I had free for use.
 And if you want to check the server map go to <a href="http://map.ijustgotla.id/">map.ijustgotla.id</a></p>
 
-<p>place</p>]]></content><author><name>Sean&apos;s Blog</name></author><category term="Minecraft" /><category term="Nouveau" /><summary type="html"><![CDATA[Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly. This is a semi-public server, I setup the server for my friends &amp; I.]]></summary></entry><entry><title type="html">Utility &amp;amp; Performance mods for MC</title><link href="http://localhost:4000/quilt1201/" rel="alternate" type="text/html" title="Utility &amp;amp; Performance mods for MC" /><published>1874-07-25T00:00:00+00:00</published><updated>1874-07-25T00:00:00+00:00</updated><id>http://localhost:4000/modpackforquilt120</id><content type="html" xml:base="http://localhost:4000/quilt1201/"><![CDATA[<h3 id="disclaimer">Disclaimer:</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Mods marked with 🦕 might be flagged as cheating by servers.
-</code></pre></div></div>
+<p>place</p>]]></content><author><name>Sean&apos;s Blog</name></author><category term="Minecraft" /><category term="Nouveau" /><summary type="html"><![CDATA[Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly. This is a semi-public server, I setup the server for my friends &amp; I.]]></summary></entry><entry><title type="html">Utility &amp;amp; Performance mods for MC</title><link href="http://localhost:4000/quilt1201/" rel="alternate" type="text/html" title="Utility &amp;amp; Performance mods for MC" /><published>1874-07-25T00:00:00+00:00</published><updated>1874-07-25T00:00:00+00:00</updated><id>http://localhost:4000/modpackforquilt120</id><content type="html" xml:base="http://localhost:4000/quilt1201/"><![CDATA[<h3 id="glossary">Glossary:</h3>
+<ul>
+  <li><a href="/quilt1201/#what-is-this">Info</a></li>
+  <li><a href="/quilt1201/#how-install-pls">Installation</a></li>
+  <li><a href="/quilt1201/#download">Download</a></li>
+  <li><a href="/quilt1201/#faq">FAQ</a></li>
+</ul>
+
+<h1 id="disclaimer">Disclaimer:</h1>
+
+<blockquote>
+Mods marked with 🦕 might be flagged as cheating by servers.
+</blockquote>
 <p>A majority of these mods might be considered as cheating/hacking on hypixel/whatever else, they aid vanilla gameplay, but in competitive scenarios have the ability to give a massive advantage. 
 Joining a server like hypixel with these mods is not recommended, please be careful.</p>
 
@@ -28,6 +38,13 @@ Joining a server like hypixel with these mods is not recommended, please be care
 <p>I have decided to put together the mods I use on vanilla survival servers. These are all client-side, meaning that like optifine, you may use them independtly from the server.</p>
 
 <p>I will have two versions of this pack, one with performance mods and a few utility ones, and one with performance mods + utility mods that are unsafe for competitive multiplayer.</p>
+
+<p>If you want to know more about each pack you, follow da following links!</p>
+
+<ul>
+  <li><a href="/quilt120perf">Performance</a></li>
+  <li><a href="/quilt120perfutil">Performance + Utility</a></li>
+</ul>
 
 <h5 id="what-utility">What utility?</h5>
 
@@ -44,13 +61,27 @@ Joining a server like hypixel with these mods is not recommended, please be care
 
 <p>On their own none of them are cheaty, but if used properly can give a competitive edge in minigames and such.</p>
 
-<h3 id="how-install-pls">How install pls?</h3>
+<h1 id="how-install-pls">How install pls?</h1>
 
 <p>There are two ways to install this pack, the recommended way is to use a modpack manager utility like curseforge, ATLauncher or any multiMC variant. However if you’d like to use this on the base minecraft launcher I will provide a way for you to install this aswell, my tutorial will focus on installation on macOS, however this should be very similar to a installation on windows or linux.</p>
 
-<p><a href="/quilt120perf">perf</a></p>
+<h1 id="download">Download</h1>
 
-<h3 id="faq">FAQ</h3>
+<h3 id="performance">Performance</h3>
+
+<ul>
+  <li><a href="">Performance modpack file</a></li>
+  <li><a href="">Performance mods + config file</a></li>
+</ul>
+
+<h3 id="performance--utility">Performance + Utility</h3>
+
+<ul>
+  <li><a href="">Performance + Utility modpack file</a></li>
+  <li><a href="">Performance + Utility mods + config file</a></li>
+</ul>
+
+<h1 id="faq">FAQ</h1>
 
 <h4 id="are-there-any-system-requirements">Are there any system requirements?</h4>
 
@@ -66,8 +97,9 @@ Joining a server like hypixel with these mods is not recommended, please be care
 
 <details>
 <summary><a href="https://lambdaurora.dev/optifine_alternatives/" target="_blank">Here is an explanation from fabric as to why optifine sucks.</a></summary>
-<br />
+<blockquote>
 "OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod."
+</blockquote>
 </details>
 
 <h4 id="why-quilt-whats-wrong-with-fabric">Why quilt, whats wrong with fabric?</h4>
@@ -76,10 +108,7 @@ Joining a server like hypixel with these mods is not recommended, please be care
 
 <details>
 <summary><a href="https://github.com/Ladysnake/Effective" target="_blank">Here is an explanation a dev I like.</a></summary>
-<br />
-
+<blockquote>
 "I don't have any problem dissociating a project from the person behind it when that project is the best there is, however, Fabric's lead dev's transphobia genuinely got in the way of code contributions that would've been great additions to the loader's API (these contributions being made by trans people). Certain systems like the custom biome, dimension or multipart APIs of Fabric have a lot of problems and sometimes straight up don't work, while these issues have been fixed on Quilt."
-
-
-
-</details>]]></content><author><name>Sean&apos;s Blog</name></author><category term="Minecraft" /><summary type="html"><![CDATA[Disclaimer: Mods marked with 🦕 might be flagged as cheating by servers. A majority of these mods might be considered as cheating/hacking on hypixel/whatever else, they aid vanilla gameplay, but in competitive scenarios have the ability to give a massive advantage. Joining a server like hypixel with these mods is not recommended, please be careful.]]></summary></entry></feed>
+</blockquote>
+</details>]]></content><author><name>Sean&apos;s Blog</name></author><category term="Minecraft" /><summary type="html"><![CDATA[Glossary: Info Installation Download FAQ]]></summary></entry></feed>
