@@ -1,20 +1,21 @@
 ---
-title:  Quilt Performance mods
-permalink: /quilt1201perf/
+title:  template
+permalink: /quilt1201util/
 layout: post
 tags:
-  - Minecraft
+  - 
 ---
 [Back to the main page](/quilt1201)
 
 <blockquote>
-No dinos 🦕 here, you can use this on public competitive servers!
+There's dinos 🦕 here, I wouldn't join any competitive servers with this!
 </blockquote>
 
 ### Glossary:
 
 + [Download](#download)
 + [Modlist](#modlist)
+	+ [Utility Mods](#utility-mods)
 	+ [QoL Mods](#quality-of-life-mods)
 	+ [Utility Mods](#graphical-mods)	
 	+ [Mandatory Mods](#mandatory-mods)
@@ -25,14 +26,25 @@ No dinos 🦕 here, you can use this on public competitive servers!
 + [modpack file]() 
 + [mods + config file]()	
 
-# Quilt 1.20.1 Performance Mods
-This pack should function almost identically to optifine, with its resourcepack compatibility and shader support, and performance enhancements. But its all better than optifine, because its open source.
+# Quilt 1.20.1 Performance + Utility Mods
+This pack should function almost identically to optifine and some extra upgrades, these are all upgrades I use when I play minecraft and have found improve my experience drastically. 
 
 Any mods that already are opened are somewhat important to know about!
 
 Also your graphics menu will look very differently to what you're used to, you can thank sodium for this, I don't like it, but its better than optifine so thats the price you pay.
 
 # Modlist
+
+### Utility Mods
+
+<details open>
+<summary><a href=" " target="_blank">Accurate Block Placement</a></summary>
+<blockquote>
+"Build at super speed with your bare hands!"
+
+<img src="https://cdn-raw.modrinth.com/data/kzwxhsjp/images/94a4de623aca8c5afdc07edca76ed663127d93b2.gif" />
+</blockquote>
+</details>
 
 ### Quality of Life mods
 
@@ -300,5 +312,3 @@ This will make your framerate super low when you're tabbed out, so if you stream
 "Rewrites the light engine to fix lighting performance and lighting errors"
 </blockquote>
 </details>
-
-

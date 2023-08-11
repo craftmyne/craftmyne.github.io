@@ -29,8 +29,8 @@ I will have two versions of this pack, one with performance mods and a few utili
 
 If you want to know more about each pack you, follow da following links!
 
-+ [Performance](/quilt120perf) 
-+ [Performance + Utility](/quilt120perfutil)
++ [Performance](/quilt1201perf) 
++ [Performance + Utility](/quilt1201util/)
 
 ##### What utility?
 
