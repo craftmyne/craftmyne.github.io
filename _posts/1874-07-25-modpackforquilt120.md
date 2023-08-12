@@ -59,13 +59,13 @@ If you are using curseforge, navigate to the minecraft section, top right you'll
 
 ### Performance
 
-+ [Performance modpack file - multiMC]() 
-+ [Performance modpack file - curseforge]() 
++ [Performance modpack file - multiMC](https://cdn.discordapp.com/attachments/935619380866347038/1139633350668210227/VanillaPlus-1.20.1_MultiMC.zip) 
++ [Performance modpack file - curseforge](https://cdn.discordapp.com/attachments/935619380866347038/1139633350261346405/VanillaPlus-1.20.1_Curseforge_1.zip) 
 
 ### Performance + Utility
  
-+ [Performance + Utility modpack file - multiMC]() 
-+ [Performance + Utility modpack file - curseforge]() 
++ [Performance + Utility modpack file - multiMC](https://cdn.discordapp.com/attachments/935619380866347038/1139633351452528690/VanillaPlusUtility_-_MultiMC.zip) 
++ [Performance + Utility modpack file - curseforge](https://cdn.discordapp.com/attachments/935619380866347038/1139633351033102376/VanillaPlusUtility_-_Curseforge_1.zip) 
 
 
 # FAQ
