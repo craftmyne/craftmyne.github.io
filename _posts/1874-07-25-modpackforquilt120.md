@@ -27,7 +27,7 @@ I have decided to put together the mods I use on vanilla survival servers. These
 
 I will have two versions of this pack, one with performance mods and a few utility ones, and one with performance mods + utility mods that are unsafe for competitive multiplayer.
 
-If you want to know more about each pack you, follow da following links!
+If you want to know more about each pack you, follow the following links!
 
 + [Performance](/quilt1201perf) 
 + [Performance + Utility](/quilt1201util/)
