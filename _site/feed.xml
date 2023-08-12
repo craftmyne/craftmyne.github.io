@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-11T21:58:37+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sean’s Blog</title><subtitle>Sean&apos;s blog</subtitle><author><name>Sean&apos;s Blog</name></author><entry><title type="html">Fabric Nouveau Modpack</title><link href="http://localhost:4000/fabricnouveau/" rel="alternate" type="text/html" title="Fabric Nouveau Modpack" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>http://localhost:4000/fabricnouveau</id><content type="html" xml:base="http://localhost:4000/fabricnouveau/"><![CDATA[<p>Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-12T17:19:35+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sean’s Blog</title><subtitle>Sean&apos;s blog</subtitle><author><name>Sean&apos;s Blog</name></author><entry><title type="html">Fabric Nouveau Modpack</title><link href="http://localhost:4000/fabricnouveau/" rel="alternate" type="text/html" title="Fabric Nouveau Modpack" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>http://localhost:4000/fabricnouveau</id><content type="html" xml:base="http://localhost:4000/fabricnouveau/"><![CDATA[<p>Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly.
 This is a semi-public server, I setup the server for my friends &amp; I.</p>
 
 <p>Anyways, if you believe that you can act like an adult and play well with us, shoot me a message on discord: Sean#0650 
@@ -63,22 +63,27 @@ Joining a server like hypixel with these mods is not recommended, please be care
 
 <h1 id="how-install-pls">How install pls?</h1>
 
-<p>There are two ways to install this pack, the recommended way is to use a modpack manager utility like curseforge, ATLauncher or any multiMC variant. However if you’d like to use this on the base minecraft launcher I will provide a way for you to install this aswell, my tutorial will focus on installation on macOS, however this should be very similar to a installation on windows or linux.</p>
+<p>I personally recommend downloading <a href="https://prismlauncher.org/download/">prism launcher</a> as I can support this the best if you have issues. But I will provide two versions of the pack, one that works with curseforge, and one that works with everything else.</p>
+
+<p>If you download prism, onces you’ve set it up all you have to do is navigate to the top left where it will say import instance, and then select import from zip from the menu that opens. You can then browse for the zip file for multiMC and import it. 
+You’ll also have to add a minecraft account in the top right, under manage accounts.</p>
+
+<p>If you are using curseforge, navigate to the minecraft section, top right you’ll see an option that says create custom profile, and at the top of that menu it will say “Or import a previously created profile” select this option and select the zip made for curseforge.</p>
 
 <h1 id="download">Download</h1>
 
 <h3 id="performance">Performance</h3>
 
 <ul>
-  <li><a href="">Performance modpack file</a></li>
-  <li><a href="">Performance mods + config file</a></li>
+  <li><a href="">Performance modpack file - multiMC</a></li>
+  <li><a href="">Performance modpack file - curseforge</a></li>
 </ul>
 
 <h3 id="performance--utility">Performance + Utility</h3>
 
 <ul>
-  <li><a href="">Performance + Utility modpack file</a></li>
-  <li><a href="">Performance + Utility mods + config file</a></li>
+  <li><a href="">Performance + Utility modpack file - multiMC</a></li>
+  <li><a href="">Performance + Utility modpack file - curseforge</a></li>
 </ul>
 
 <h1 id="faq">FAQ</h1>

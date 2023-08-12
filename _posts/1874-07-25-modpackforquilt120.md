@@ -48,19 +48,25 @@ On their own none of them are cheaty, but if used properly can give a competitiv
 
 # How install pls?
 
-There are two ways to install this pack, the recommended way is to use a modpack manager utility like curseforge, ATLauncher or any multiMC variant. However if you'd like to use this on the base minecraft launcher I will provide a way for you to install this aswell, my tutorial will focus on installation on macOS, however this should be very similar to a installation on windows or linux.
+I personally recommend downloading [prism launcher](https://prismlauncher.org/download/) as I can support this the best if you have issues. But I will provide two versions of the pack, one that works with curseforge, and one that works with everything else. 
+
+If you download prism, onces you've set it up all you have to do is navigate to the top left where it will say import instance, and then select import from zip from the menu that opens. You can then browse for the zip file for multiMC and import it. 
+You'll also have to add a minecraft account in the top right, under manage accounts.
+
+If you are using curseforge, navigate to the minecraft section, top right you'll see an option that says create custom profile, and at the top of that menu it will say "Or import a previously created profile" select this option and select the zip made for curseforge.
 
 # Download
 
 ### Performance
 
-+ [Performance modpack file]() 
-+ [Performance mods + config file]()	
++ [Performance modpack file - multiMC]() 
++ [Performance modpack file - curseforge]() 
 
 ### Performance + Utility
  
-+ [Performance + Utility modpack file]() 
-+ [Performance + Utility mods + config file]()	
++ [Performance + Utility modpack file - multiMC]() 
++ [Performance + Utility modpack file - curseforge]() 
+
 
 # FAQ
 
