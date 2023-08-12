@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-12T17:46:52+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sean’s Blog</title><subtitle>Sean&apos;s blog</subtitle><author><name>Sean&apos;s Blog</name></author><entry><title type="html">Fabric Nouveau Modpack</title><link href="http://localhost:4000/fabricnouveau/" rel="alternate" type="text/html" title="Fabric Nouveau Modpack" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>http://localhost:4000/fabricnouveau</id><content type="html" xml:base="http://localhost:4000/fabricnouveau/"><![CDATA[<p>Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly.
-This is a semi-public server, I setup the server for my friends &amp; I.</p>
-
-<p>Anyways, if you believe that you can act like an adult and play well with us, shoot me a message on discord: Sean#0650 
-Please don’t feel scared to! you can join a million times and never say Hi and you’ll still be a valued member.</p>
-
-<p>You can look at the <a href="/nouveauclient">client</a> side mods here and the <a href="/nouveauserver">server</a> side mods here.</p>
-
-<p>If you’d like to download the pack to install it you can do so by following these simple steps:</p>
-<ul>
-  <li>Download the pack as a zip from <a href="https://1drv.ms/u/s!AjygWOcT5btHh_xMPJKhvYT0VCiJUg">here</a></li>
-  <li>Then go to any compatible launcher and import it as a zip. Curseforge, ATLauncher, PolyMC are all compatible</li>
-</ul>
-
-<p>The IP is: ‘ijustgotla.id’ my excuse is thats the only domain I had free for use.
-And if you want to check the server map go to <a href="http://map.ijustgotla.id/">map.ijustgotla.id</a></p>
-
-<p>place</p>]]></content><author><name>Sean&apos;s Blog</name></author><category term="Minecraft" /><category term="Nouveau" /><summary type="html"><![CDATA[Hello! This is a post about a server I’m launching which will be running a fabric based modpack! I thought I’d make it extra quirky and go for a fancy name, so I used french! Those snail eating revolutionaries really know a thing or two about nice words sadly. This is a semi-public server, I setup the server for my friends &amp; I.]]></summary></entry><entry><title type="html">Utility &amp;amp; Performance mods for MC</title><link href="http://localhost:4000/quilt1201/" rel="alternate" type="text/html" title="Utility &amp;amp; Performance mods for MC" /><published>1874-07-25T00:00:00+00:00</published><updated>1874-07-25T00:00:00+00:00</updated><id>http://localhost:4000/modpackforquilt120</id><content type="html" xml:base="http://localhost:4000/quilt1201/"><![CDATA[<h3 id="glossary">Glossary:</h3>
+I"P<h3 id="glossary">Glossary:</h3>
 <ul>
   <li><a href="/quilt1201/#what-is-this">Info</a></li>
   <li><a href="/quilt1201/#how-install-pls">Installation</a></li>
@@ -69,7 +52,6 @@ Joining a server like hypixel with these mods is not recommended, please be care
 You’ll also have to add a minecraft account in the top right, under manage accounts.</p>
 <details open="">
 <summary></summary>
-<img src="/assets/img/Step1.png" />
 </details>
 <p><img src="/assets/img/Step1.png" alt="noway" />
 <img src="/assets/img/Step2.png" alt="noway" /></p>
@@ -122,4 +104,6 @@ You’ll also have to add a minecraft account in the top right, under manage acc
 <blockquote>
 "I don't have any problem dissociating a project from the person behind it when that project is the best there is, however, Fabric's lead dev's transphobia genuinely got in the way of code contributions that would've been great additions to the loader's API (these contributions being made by trans people). Certain systems like the custom biome, dimension or multipart APIs of Fabric have a lot of problems and sometimes straight up don't work, while these issues have been fixed on Quilt."
 </blockquote>
-</details>]]></content><author><name>Sean&apos;s Blog</name></author><category term="Minecraft" /><summary type="html"><![CDATA[Glossary: Info Installation Download FAQ]]></summary></entry></feed>
+</details>
+
+:ET

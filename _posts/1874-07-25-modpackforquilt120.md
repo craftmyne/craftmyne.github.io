@@ -52,6 +52,12 @@ I personally recommend downloading [prism launcher](https://prismlauncher.org/do
 
 If you download prism, onces you've set it up all you have to do is navigate to the top left where it will say import instance, and then select import from zip from the menu that opens. You can then browse for the zip file for multiMC and import it. 
 You'll also have to add a minecraft account in the top right, under manage accounts.
+<details open>
+<summary></summary>
+<img src="/assets/img/Step1.png" />
+</details>
+![noway](/assets/img/Step1.png)
+![noway](/assets/img/Step2.png)
 
 If you are using curseforge, navigate to the minecraft section, top right you'll see an option that says create custom profile, and at the top of that menu it will say "Or import a previously created profile" select this option and select the zip made for curseforge.
 
