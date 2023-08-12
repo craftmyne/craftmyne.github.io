@@ -1,43 +1,43 @@
----
-title:  Quilt Performance + Utility mods
-permalink: /quilt1201util/
-layout: post
-tags:
-  - 
----
-[Back to the main page](/quilt1201)
+I"�=<p><a href="/quilt1201">Back to the main page</a></p>
 
 <blockquote>
 There's dinos 🦕 here, I wouldn't join any competitive servers with this!
 </blockquote>
 
-### Glossary:
+<h3 id="glossary">Glossary:</h3>
 
-+ [Download](#download)
-+ [Modlist](#modlist)
-	+ [Utility Mods](#utility-mods)
-	+ [QoL Mods](#quality-of-life-mods)
-	+ [Graphical Mods](#graphical-mods)	
-	+ [Mandatory Mods](#mandatory-mods)
-	+ [Performance Mods](#performance-mods)
+<ul>
+  <li><a href="#download">Download</a></li>
+  <li><a href="#modlist">Modlist</a>
+    <ul>
+      <li><a href="#utility-mods">Utility Mods</a></li>
+      <li><a href="#quality-of-life-mods">QoL Mods</a></li>
+      <li><a href="#graphical-mods">Graphical Mods</a></li>
+      <li><a href="#mandatory-mods">Mandatory Mods</a></li>
+      <li><a href="#performance-mods">Performance Mods</a></li>
+    </ul>
+  </li>
+</ul>
 
-# Download
+<h1 id="download">Download</h1>
 
-+ [Performance + Utility modpack file - multiMC](https://cdn.discordapp.com/attachments/935619380866347038/1139633351452528690/VanillaPlusUtility_-_MultiMC.zip) 
-+ [Performance + Utility modpack file - curseforge](https://cdn.discordapp.com/attachments/935619380866347038/1139633351033102376/VanillaPlusUtility_-_Curseforge_1.zip) 
+<ul>
+  <li><a href="https://cdn.discordapp.com/attachments/935619380866347038/1139633351452528690/VanillaPlusUtility_-_MultiMC.zip">Performance + Utility modpack file - multiMC</a></li>
+  <li><a href="https://cdn.discordapp.com/attachments/935619380866347038/1139633351033102376/VanillaPlusUtility_-_Curseforge_1.zip">Performance + Utility modpack file - curseforge</a></li>
+</ul>
 
-# Quilt 1.20.1 Performance + Utility Mods
-This pack should function almost identically to optifine and some extra upgrades, these are all upgrades I use when I play minecraft and have found improve my experience drastically. 
+<h1 id="quilt-1201-performance--utility-mods">Quilt 1.20.1 Performance + Utility Mods</h1>
+<p>This pack should function almost identically to optifine and some extra upgrades, these are all upgrades I use when I play minecraft and have found improve my experience drastically.</p>
 
-Any mods that already are opened are somewhat important to know about!
+<p>Any mods that already are opened are somewhat important to know about!</p>
 
-Also your graphics menu will look very differently to what you're used to, you can thank sodium for this, I don't like it, but its better than optifine so thats the price you pay.
+<p>Also your graphics menu will look very differently to what you’re used to, you can thank sodium for this, I don’t like it, but its better than optifine so thats the price you pay.</p>
 
-# Modlist
+<h1 id="modlist">Modlist</h1>
 
-### Utility Mods
+<h3 id="utility-mods">Utility Mods</h3>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/hschwar/AccurateBlockPlacement-Reborn" target="_blank">Accurate Block Placement</a></summary>
 <blockquote>
 "Build at super speed with your bare hands!"
@@ -48,7 +48,7 @@ Also your graphics menu will look very differently to what you're used to, you c
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/gbl/AdvancementInfo" target="_blank">Advancement Info</a></summary>
 <blockquote>
 "Make it easier to see which advancements you have and what's missing."
@@ -59,14 +59,14 @@ Also your graphics menu will look very differently to what you're used to, you c
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/Lortseam/better-mount-hud" target="_blank">Better Mount HUD</a></summary>
 <blockquote>
 "This client-side mod improves the ingame HUD while riding a horse, donkey or other mount."
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/ModProg/BlockMeter" target="_blank">Blockmeter</a></summary>
 <blockquote>
 "A simple mod to measure your blocks!"
@@ -77,7 +77,7 @@ Also your graphics menu will look very differently to what you're used to, you c
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/hashalite/Freecam" target="_blank">Freecam (Modrinth Edition)</a></summary>
 <blockquote>
 "This mod allows you to control your camera separately from your player. While it is enabled, you can fly around within your render distance. Disabling it will restore you to your original position. This can be useful for quickly inspecting builds and exploring your world.
@@ -88,7 +88,7 @@ This version of Freecam is modified to comply with Modrinth's rules regarding ch
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/Queerbric/Inspecio" target="_blank">Inspecio</a></summary>
 <blockquote>
 "Adds a lot of fancy tooltips to existing items."
@@ -100,7 +100,7 @@ This version of Freecam is modified to comply with Modrinth's rules regarding ch
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/blackd/Inventory-Profiles" target="_blank">Inventory Profile Next</a></summary>
 <blockquote>
 "Take control over your inventory"
@@ -108,7 +108,7 @@ Adds a lot of quality of life fixes to the inventory, press R+C to setup shortcu
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/maruohon/litematica" target="_blank">Litematica</a></summary>
 <blockquote>
 "A modern schematic mod for LiteLoader, Rift, Fabric etc." press M+R to bring up the menu
@@ -119,7 +119,7 @@ Adds a lot of quality of life fixes to the inventory, press R+C to setup shortcu
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://media.forgecdn.net/attachments/257/165/2019-07-20_19.png" target="_blank">MiniHUD</a></summary>
 <blockquote>
 This is a info mod, my favorite by far, you can create your perfect HUD menu, with much better info than what you get from F3, press H to toggle your HUD and H+C to open the menu
@@ -130,18 +130,18 @@ This is a info mod, my favorite by far, you can create your perfect HUD menu, wi
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/JackFred2/MoreChatHistory" target="_blank">More Chat History</a></summary>
 <blockquote>
 "Increases the length of the chat history."
 </blockquote>
 </details>
 
-### Quality of Life mods
+<h3 id="quality-of-life-mods">Quality of Life mods</h3>
 
-These mods add to the quality of gameplay
+<p>These mods add to the quality of gameplay</p>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/FlashyReese/reeses-sodium-options" target="_blank">Reese's Sodium Options</a></summary>
 <blockquote>
 "Reese's Edition of Sodium Options"
@@ -149,37 +149,37 @@ An improvement upon sodiums graphics menu
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/TerraformersMC/ModMenu" target="_blank">Mod Menu</a></summary>
 <blockquote>
 "Adds a mod menu to view the list of mods you have installed."
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/Aizistral-Studios/No-Chat-Reports" target="_blank">No Chat Reports</a></summary>
 <blockquote>
 "Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account, as well as use Player Chat Reporting feature."
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/isXander/Zoomify" target="_blank">Zoomify</a></summary>
 <blockquote>
 "A zoom mod with infinite customizability."
 </blockquote>
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://ears.unascribed.com/" target="_blank">Ears</a></summary>
 <blockquote>
 "Faithful fancy fashion features for fuzzy folk."
 </blockquote>
 </details>
 
-### Graphical Mods
+<h3 id="graphical-mods">Graphical Mods</h3>
 
-These mods replicate the resourcepack support optifine brings + shaders
+<p>These mods replicate the resourcepack support optifine brings + shaders</p>
 
 <details>
 <summary><a href="https://github.com/tr7zw/3d-Skin-Layers" target="_blank">3D Skin layers</a></summary>
@@ -220,7 +220,7 @@ These mods replicate the resourcepack support optifine brings + shaders
 <summary><a href="https://github.com/Traben-0/Entity_Texture_Features" target="_blank">Entity Texture Features</a></summary>
 <blockquote>
 "Adds support for resource-pack driven features for entity textures including some OptiFine features.
-Supports OptiFine: Random & Custom textures, Emissive textures.
+Supports OptiFine: Random &amp; Custom textures, Emissive textures.
 With more features such as: Blinking textures"
 </blockquote>
 </details>
@@ -275,9 +275,9 @@ While still allowing you to disable this to use a different model mod :)"
 </blockquote>
 </details>
 
-### Mandatory Mods
+<h3 id="mandatory-mods">Mandatory Mods</h3>
 
-Removing these may break your installation!
+<p>Removing these may break your installation!</p>
 
 <details>
 <summary><a href="https://docs.isxander.dev/yet-another-config-lib" target="_blank">Yet Another Config Lib</a></summary>
@@ -321,9 +321,9 @@ Removing these may break your installation!
 </blockquote>
 </details>
 
-### Performance Mods
+<h3 id="performance-mods">Performance Mods</h3>
 
-These mods will replicate the performance gains of optifine, do note that graphically the game may appear a teensy tiny itsy bitsy just so slightly bit different. You probably won't notice, but if you do, its probably one of these mods that does it and theres no need to worry!
+<p>These mods will replicate the performance gains of optifine, do note that graphically the game may appear a teensy tiny itsy bitsy just so slightly bit different. You probably won’t notice, but if you do, its probably one of these mods that does it and theres no need to worry!</p>
 
 <details>
 <summary><a href="https://github.com/CaffeineMC/sodium-fabric" target="_blank">Sodium</a></summary>
@@ -340,7 +340,7 @@ These mods will replicate the performance gains of optifine, do note that graphi
 This adds optifine graphical options that you may like.
 </details>
 
-<details open>
+<details open="">
 <summary><a href="https://github.com/juliand665/Dynamic-FPS" target="_blank">Dynamic FPS</a></summary>
 <blockquote>
 "Dynamically adjusts FPS so Minecraft doesn't hog resources in background."
@@ -407,7 +407,7 @@ This will make your framerate super low when you're tabbed out, so if you stream
 <details>
 <summary><a href="https://github.com/fxmorin/memoryleakfix" target="_blank">Memory Leak Fix</a></summary>
 <blockquote>
-"A mod which fixes multiple memory leaks, both client-side & server-side"
+"A mod which fixes multiple memory leaks, both client-side &amp; server-side"
 </blockquote>
 </details>
 
@@ -417,3 +417,4 @@ This will make your framerate super low when you're tabbed out, so if you stream
 "Rewrites the light engine to fix lighting performance and lighting errors"
 </blockquote>
 </details>
+:ET

@@ -22,8 +22,8 @@ No dinos 🦕 here, you can use this on public competitive servers!
 
 # Download
 
-+ [modpack file]() 
-+ [mods + config file]()	
++ [Performance modpack file - multiMC](https://cdn.discordapp.com/attachments/935619380866347038/1139633350668210227/VanillaPlus-1.20.1_MultiMC.zip) 
++ [Performance modpack file - curseforge](https://cdn.discordapp.com/attachments/935619380866347038/1139633350261346405/VanillaPlus-1.20.1_Curseforge_1.zip) 
 
 # Quilt 1.20.1 Performance Mods
 This pack should function almost identically to optifine, with its resourcepack compatibility and shader support, and performance enhancements. But its all better than optifine, because its open source.
